@@ -39,7 +39,7 @@ body, html {
 
 /*---------------------------------------------*/
 a {
-	font-family: Poppins-Regular;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #4433ff;
@@ -178,7 +178,7 @@ iframe {
 
 .contact2-form-title {
   display: block;
-  font-family: Poppins-Bold;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 39px;
   color: #333333;
   line-height: 1.2;
@@ -202,7 +202,7 @@ iframe {
   display: block;
   width: 100%;
 
-  font-family: Poppins-Regular;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 15px;
   color: #555555;
   line-height: 1.2;
