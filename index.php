@@ -10,7 +10,7 @@ if(isset($_POST['submit'])){
 	$mail = new PHPMailer(true);
 
 try {
-    $mail->isSMTP();                                            // Set mailer to use SMTP
+    $mail->isSMTP();                                            // Set mailer to use SMTP ok
     $mail->Host       = 'smtp.gmail.com';                     // Specify main and backup SMTP servers
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
     $mail->Username   = 'XXXXXXXXXXX@gmail.com';                     // SMTP configuredGmail email id
